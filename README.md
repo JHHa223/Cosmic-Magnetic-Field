@@ -8,7 +8,10 @@ Magnetic field data calculated by the model presented in the paper.
 
 
 - Bfield_damping[ll, 01, 05, 2, 10]_data.npz: B field with pressure anisotropy perturbations having different damping rates
-  
+
+The index [ll,01,05,2,10] indicates the ratio between \Gamma_{d} and \Gamma_{c}^{inst}
+
+
 *ll: \Gamma_{d} << \Gamma_{c}^{inst}
 
 *01: \Gamma_{d} = 0.1\Gamma_{c}^{inst}
